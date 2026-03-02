@@ -20,3 +20,7 @@ body {
 .flex {
     display: flex;
 }
+.red {
+    background-color:rgb(242, 255, 127);
+    padding-right: 200px;
+}
