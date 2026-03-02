@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(255, 158, 247);
+}
+.aqua {
+    background-color: aquamarine;
+    padding: 50px;
+    justify-content: center;
+    display: flex;
+}
+.blue {
+    padding: 50px;
+    margin: 20px;
+    background-color: rgb(127, 187, 255);
+}
+.yo {
+    padding: 50px;
+    margin: 20px;
+    background-color: rgb(242, 255, 127);
+}
+.flex {
+    display: flex;
+}
